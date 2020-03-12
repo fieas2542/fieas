@@ -1,2 +1,0 @@
-# fieas
-Face-Recognition-JavaScript
